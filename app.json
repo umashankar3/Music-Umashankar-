@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "8877020",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "9ddc10dbe4d8a9fb6c94a5ecdc20a0e4",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -40,22 +40,22 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "Digital Umashankar",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5546807425",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQCdG5tO0J23fbABfq6DPCCb7gVks-75Z78EFXMugs6Pz7AXQr93-w7QQJxLPJ0u4Ug2-LFEYEhEET2_zdLLkzHIC2C_hy9xJCG1IPSzXwJDYnBd5KqGetUcvI8A3eMPpW8VZ4fWet1cFGprxXgczA0s1VQZgf7CmHfD8ZsxI7U2ZWbjjm1ZJa8QxAHnqJ4okbfflfRCe0B2H6LXtxWz7BpXIAr6h4MJ__Ik2bNcYXyA5uW6gURSwR38u2j_c0cGo2DIyzPiwRgPe3E_1wfWdrhLlM9jtTw36eD3EP8gtB4E8YkQlB2J4lGNKXbwS5oTi2p03PzOXd9WCo6hx4hOvrICAAAAAUqdkIEA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "c1db59f5-092b-4d83-be1d-741cf4eb0e4a",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -65,12 +65,12 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001647698546",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/umashankar3/Music-Umashankar-",
         "required": true
       },
       "UPSTREAM_BRANCH": {
